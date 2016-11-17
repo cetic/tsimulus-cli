@@ -9,7 +9,7 @@ This application uses the [Realistic Time Series Generator](https://github.com/c
 
 # How to use it?
 
-1. Download it. You will only need a [Java Virtual Machine](https://java.com), since all the dependencies of this application are included in the downloadable JAR file. Alternativelly, you can also package it from the source code available on this Git repository, and then execute it: 
+1. [Download a release](https://github.com/cetic/rts-gen-cli/releases) from Github. You will only need a [Java Virtual Machine](https://java.com), since all the dependencies of this application are included in the downloadable JAR file. Alternativelly, you can also package it from the source code available on this Git repository, and then execute it: 
 
 ```bash
 > sbt package
