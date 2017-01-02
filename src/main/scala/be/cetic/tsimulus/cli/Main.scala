@@ -1,9 +1,9 @@
-package be.cetic.rtsgen.console
+package be.cetic.tsimulus.cli
 
 import java.io.File
 
-import be.cetic.rtsgen.Main.{generate, config2Results}
-import be.cetic.rtsgen.config.Configuration
+import be.cetic.tsimulus.Utils.{generate, config2Results}
+import be.cetic.tsimulus.config.Configuration
 import org.joda.time.format.DateTimeFormat
 import spray.json._
 

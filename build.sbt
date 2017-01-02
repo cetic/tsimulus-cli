@@ -1,8 +1,8 @@
-name := "rts-gen-console"
+name := "tsimulus-cli"
 
-version := "1.0"
+version := "1.3"
 
-scalaVersion := "2.11.0"
+scalaVersion := "2.11.8"
 
-libraryDependencies += "be.cetic" %% "rts-gen" % "0.1.6"
+libraryDependencies += "be.cetic" %% "tsimulus" % "0.1.14"
     
