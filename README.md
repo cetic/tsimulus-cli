@@ -21,5 +21,5 @@ You have to provide the path to a generator configuration file (have a look at t
  
     Alternatively, you can directly run it using SBT:
  
-    > sbt run configuration.json
+    > sbt "run configuration.json"
 
