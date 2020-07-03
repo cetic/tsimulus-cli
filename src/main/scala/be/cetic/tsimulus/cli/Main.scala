@@ -13,7 +13,8 @@ object Main
 {
    def main(args: Array[String]): Unit =
    {
-      val content = Source .fromFile(new File(args(0)))
+      val content = Source
+         .fromFile(new File(args(0)))
          .getLines()
          .mkString("\n")
 
